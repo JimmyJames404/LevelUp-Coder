@@ -1,0 +1,203 @@
+type,skill,job,cv
+general,,18,40
+general,de,10,37
+general,en,3,11
+general,datos,3,3
+general,y,2,8
+general,los,2,3
+general,bases,2,1
+general,bases de,2,1
+general,ü,2,0
+general,días,2,0
+general,la,1,8
+general,para,1,8
+hard,python,1,5
+general,el,1,5
+general,con,1,3
+general,sistemas,1,2
+general,experiencia,1,1
+general,conocimiento,1,1
+general,análisis,1,1
+general,desarrollo,1,1
+general,capacitación,1,1
+general,en el,1,1
+general,análisis de,1,1
+general,bases de datos,1,1
+hard,sql server,1,0
+hard,sql,1,0
+general,licenciatura,1,0
+general,afín,1,0
+general,informática,1,0
+general,telemática,1,0
+general,computación,1,0
+general,tecnologías,1,0
+general,información,1,0
+general,actuarios,1,0
+general,físicos,1,0
+general,matemáticos,1,0
+general,matemáticas,1,0
+general,aplicadas,1,0
+general,te,1,0
+general,gustan,1,0
+general,retos,1,0
+general,estás,1,0
+general,dispuesto,1,0
+general,desarrollarte,1,0
+general,mundo,1,0
+general,este,1,0
+general,empleo,1,0
+general,es,1,0
+general,ti,1,0
+general,indispensables,1,0
+general,recién,1,0
+general,egresado,1,0
+general,o,1,0
+general,seis,1,0
+general,meses,1,0
+general,desarrollando,1,0
+general,lenguaje,1,0
+general,deseables,1,0
+general,básico,1,0
+general,server,1,0
+general,qué,1,0
+general,nos,1,0
+general,apoyarás,1,0
+general,aplicaciones,1,0
+general,consultas,1,0
+general,ofrecemos,1,0
+general,home,1,0
+general,office,1,0
+general,temporalmente,1,0
+general,sueldo,1,0
+general,hasta,1,0
+general,15000,1,0
+general,brutos,1,0
+general,mensuales,1,0
+general,esquema,1,0
+general,100,1,0
+general,nómina,1,0
+general,horario,1,0
+general,96,1,0
+general,pm,1,0
+general,lunes,1,0
+general,viernes,1,0
+general,continua,1,0
+general,aguinaldo,1,0
+general,30,1,0
+general,10,1,0
+general,vacaciones,1,0
+general,1000,1,0
+general,vales,1,0
+general,despensa,1,0
+general,25,1,0
+general,prima,1,0
+general,vacacional,1,0
+general,licenciatura sistemas,1,0
+general,sistemas afín,1,0
+general,afín informática,1,0
+general,informática telemática,1,0
+general,telemática computación,1,0
+general,la información,1,0
+general,información actuarios,1,0
+general,actuarios físicos,1,0
+general,físicos matemáticos,1,0
+general,matemáticos matemáticas,1,0
+general,te gustan,1,0
+general,gustan los,1,0
+general,los retos,1,0
+general,retos y,1,0
+general,y estás,1,0
+general,desarrollarte en,1,0
+general,el mundo,1,0
+general,los datos,1,0
+general,este empleo,1,0
+general,empleo es,1,0
+general,es para,1,0
+general,para ti,1,0
+general,egresado o,1,0
+general,o seis,1,0
+general,seis meses,1,0
+general,meses de,1,0
+general,experiencia desarrollando,1,0
+general,desarrollando con,1,0
+general,con lenguaje,1,0
+general,lenguaje python,1,0
+general,básico en,1,0
+general,en análisis,1,0
+general,datos sql,1,0
+general,en qué,1,0
+general,qué nos,1,0
+general,nos apoyarás,1,0
+general,aplicaciones y,1,0
+general,y consultas,1,0
+general,consultas de,1,0
+general, home,1,0
+general,home office,1,0
+general,office temporalmente,1,0
+general, sueldo,1,0
+general,sueldo hasta,1,0
+general,hasta 15000,1,0
+general,15000 brutos,1,0
+general,mensuales esquema,1,0
+general,esquema 100,1,0
+general,100 nómina,1,0
+general, horario,1,0
+general,horario 96,1,0
+general,96 pm,1,0
+general,pm lunes,1,0
+general, capacitación,1,0
+general,capacitación continua,1,0
+general, aguinaldo,1,0
+general,aguinaldo 30,1,0
+general,30 días,1,0
+general, 10,1,0
+general,10 días,1,0
+general, 1000,1,0
+general,1000 vales,1,0
+general,vales de,1,0
+general, 25,1,0
+general,25 prima,1,0
+general,prima vacacional,1,0
+general,licenciatura sistemas afín,1,0
+general,sistemas afín informática,1,0
+general,afín informática telemática,1,0
+general,informática telemática computación,1,0
+general,la información actuarios,1,0
+general,información actuarios físicos,1,0
+general,actuarios físicos matemáticos,1,0
+general,físicos matemáticos matemáticas,1,0
+general,te gustan los,1,0
+general,gustan los retos,1,0
+general,los retos y,1,0
+general,retos y estás,1,0
+general,desarrollarte en el,1,0
+general,este empleo es,1,0
+general,empleo es para,1,0
+general,es para ti,1,0
+general,egresado o seis,1,0
+general,o seis meses,1,0
+general,experiencia desarrollando con,1,0
+general,desarrollando con lenguaje,1,0
+general,con lenguaje python,1,0
+general,análisis de bases,1,0
+general,datos sql server,1,0
+general,qué nos apoyarás,1,0
+general,consultas de bases,1,0
+general, home office,1,0
+general,home office temporalmente,1,0
+general, sueldo hasta,1,0
+general,sueldo hasta 15000,1,0
+general,hasta 15000 brutos,1,0
+general,mensuales esquema 100,1,0
+general,esquema 100 nómina,1,0
+general, horario 96,1,0
+general,horario 96 pm,1,0
+general,96 pm lunes,1,0
+general, capacitación continua,1,0
+general, aguinaldo 30,1,0
+general,aguinaldo 30 días,1,0
+general, 10 días,1,0
+general,10 días de,1,0
+general, 1000 vales,1,0
+general, 25 prima,1,0
+general,25 prima vacacional,1,0

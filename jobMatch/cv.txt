@@ -1,0 +1,88 @@
+Contacto
+55 – 37 – 29 – 46 – 89
+marco.alberto.perez@gmail.com
+marco-alberto-pérez-castillo-556b15178/
+ 
+MARCO ALBERTO PÉREZ CASTILLO
+Objetivo
+ 
+Ingeniería en Sistemas Computacionales
+ 
+Dirección
+Colonia Roma, Cuauhtémoc, CDMX
+ 
+Tengo gran interés en la ciencia de datos y el Machine learning, me gustaría integrarme a un equipo en el que pueda crecer y desarrollar mis habilidades, mientras aporto las mismas para ayudar a alcanzar los objetivos de la empresa.
+
+ 
+Escolaridad
+Ingeniería en Sistemas Computacionales –
+Universidad UTEL (online)
+Agosto 2020 - Actual
+Conocimiento
+•	Python
+•	Pandas
+•	Numpy
+•	Matplotlib
+•	Scikit
+•	Tensorflow
+•	Keras
+•	AWS-Lambda
+•	AWS-Sagemaker
+•	AWS-S3 Bucket
+•	Google colab
+•	Jira
+•	Vue.js
+•	Neural Networks
+•	Estadística
+•	POO
+•	Excel
+•	PowerPoint
+•	Word
+
+Habilidades
+•	Liderazgo
+•	Trabajo en equipo
+•	Resolución de problemas
+•	Responsable
+•	Atención a los detalles
+•	Proactivo
+•	Dinámico
+•	Creativo
+•	Facilidad de aprendizaje
+ 
+Proyectos profesionales
+•	Sistema de recomendación de contenido – Gizmo App
+•	Sistema de recomendación de usuarios – Gizmo App
+o	Se realizaron utilizando “Deep learning” implementando modelos
+“Neural Collaborative Filtering”.
+o	Se desarrollaron en AWS (Lambda, Sagemaker, S3 Bucket) utilizando Python.
+o	Se mantuvo comunicación efectiva en inglés de manera remota con el equipo de trabajo y con el personal de la compañía.
+o	Se utilizó la plataforma Jira para dar seguimiento al proyecto durante todo su desarrollo.
+o	Se creó la documentación necesaria explicando de manera clara el funcionamiento y la estructura del proyecto.
+
+•	Chatbot médico para competencia “AI Hackaton” (obteniendo segundo lugar)
+o	Se realizó utilizando Scikit y Pandas, entre otras librerías de Python.
+
+Proyectos personales (realizados utilizando bases de datos de Kaggle en la plataforma Google Colab)
+•	Implementación de red neuronal convolucional para modelo de detección de covid en radiografías de los pulmones.
+•	Implementación de modelo predictivo para estimar precios de inmuebles.
+•	Implementación de transferencia de estilo para hacer que fotografías se vean como pinturas clásicas.
+•	Implementación de modelo de visión computacional para sistema de reconocimiento facial.
+•	Implementación de modelo de análisis de sentimientos para categorizar reseñas de la base de datos de IMDB.
+
+
+	Cursos
+•	Capacitación en inteligencia artificial – AI Lab School
+•	Curso Profesional de Scrum – Platzi
+•	Curso de POO y algoritmos con Python – Platzi
+•	Máster en Python - Udemy
+ 
+
+ 
+Idioma
+Inglés – C2 (Avanzado)
+ 
+Experiencia
+Gerente de proyectos y ventas – Ijump (2017 – 2020)
+•	Manejo de personal
+•	Planificación y seguimiento de proyectos.
