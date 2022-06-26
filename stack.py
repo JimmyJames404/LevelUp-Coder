@@ -4,7 +4,7 @@ from collections import Counter
 import math
 from lxml import etree
  
-def main(link):
+def stack(link):
     github_html = requests.get(f'{link}').text
     soup = BeautifulSoup(github_html, "html.parser")
     stats = []
@@ -28,9 +28,9 @@ def main(link):
         'questions' : questions,
         'date' : date   
     }
-    print(result)
+    #print(result)
     return result
  
 if __name__ == "__main__":
     user = "https://stackoverflow.com/users/14452043/jimmy-j"
-    main(user)
+    stack(user)

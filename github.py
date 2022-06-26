@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from collections import Counter
 import math
  
-def main(username):
+def github(username):
     if('https://'in username):
         username = username.split('/')[3]
     else:
@@ -41,9 +41,9 @@ def main(username):
         'languages' : languages,
         'highlights' : highlights
     }
-    print(result)
+    #print(result)
     return result
  
 if __name__ == "__main__":
     user = "dmalan"
-    main(user)
+    github(user)

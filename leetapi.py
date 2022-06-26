@@ -1,19 +1,22 @@
 import urllib.request
 import json
 
-url = 'https://leetcode-stats-api.herokuapp.com/marco_apc'
 
-contents = json.loads(urllib.request.urlopen(url).read())
+def leetcode(username):
+    url = 'https://leetcode-stats-api.herokuapp.com/'+ username
 
-easy = contents.get("easySolved")
-medium = contents.get("mediumSolved")
-hard = contents.get("hardSolved")
-ranking = contents.get("ranking")
+    contents = json.loads(urllib.request.urlopen(url).read())
 
-result = {
-    'easy': easy,
-    'medium': medium,
-    'hard': hard,
-    'ranking': ranking,
-}
-print(result)
+    easy = contents.get("easySolved")
+    medium = contents.get("mediumSolved")
+    hard = contents.get("hardSolved")
+    ranking = contents.get("ranking")
+
+    result = {
+        'easy': easy,
+        'medium': medium,
+        'hard': hard,
+        'ranking': ranking,
+    }
+    return result
+#print(leetcode("marco_apc"))
