@@ -19,5 +19,10 @@ def my_form_post():
     else :
         return "<h1>Vamos bien!</h1>"
 
+
+@app.route('/test')
+def suma():
+    print("hello world")
+
 if __name__ == '__main__':
     app.run()
