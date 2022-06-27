@@ -41,8 +41,8 @@ def procesor(profile):
     rank = weights.rank(stack_link, github_name, leet_name)
     print(rank)
     
-    return "flash('You were successfully registered {}')".format(rank)
-    #return "<h1>Te enviamos un mensaje a tyu correo!{}</h1>".format(rank)
+    #return "flash('You were successfully registered {}')".format(rank)
+    return "<h1>Te enviamos un mensaje a tyu correo!{}</h1>".format(rank)
 
 if __name__ == '__main__':
     app.run()
